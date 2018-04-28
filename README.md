@@ -1,4 +1,4 @@
-# DRHack Anaylisis
+# DRHack Analysis
 
 This is a visuzalization of divisions and papers released by the University of Nottingham e-print system.
 
